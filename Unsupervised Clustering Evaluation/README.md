@@ -12,4 +12,4 @@ Read about
   - Evaluation Plots
   - Visualization
 * Conclusions
-[![Image cover](./clusters.png?raw=true "Clustering Evaluation Methods")](https://medium.com/p/7dccb955c490/edit)
+[![Image cover](./clusters.png?raw=true "Clustering Evaluation Methods")]()
