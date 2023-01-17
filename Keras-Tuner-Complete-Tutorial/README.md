@@ -13,7 +13,9 @@ You will learn some tricks not included in other tutorials, such as:
 
 The tutorial works with a 37 classes Sign Language computer vision [dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset).
 </br>
-<img src='Images/data_sample.png' height=100 width=100>.
+<div align='center'>
+<img src='Images/data_sample.png' height=80 width=80>.
+</div>
 </br>
 
 The code can be found in the keras_tuner.ipynb file and is thoroughly explained in the [medium blog post](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
