@@ -2,9 +2,7 @@
 
 **(Repo Under Construction - Frequent Updates)**
 
-## A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) along with code and notebooks used in my coding tutorials.
-
-</br>
+### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) along with code and notebooks used in my coding tutorials.
 
 # Subjects I cover 📜
 
@@ -43,22 +41,18 @@
 - [Three reasons Self-Supervised Learning will dominate AI](https://medium.com/geekculture/three-reasons-self-supervised-learning-will-dominate-artificial-intelligence-ai-69904684c935)
 
 </br>
-</br>
 
 # To stay updated on my blogging journey you can 
-- ## star this repo :star: 
-- ## follow me on [Medium](https://medium.com/@poulinakis.kon)
+- ### star this repo :star: 
+- ### follow me on [Medium](https://medium.com/@poulinakis.kon)
+
+</br>
 
 # If you'd like to support me 🫰
-- ## Consider becoming a [Medium member](https://medium.com/@poulinakis.kon/membership) through my [referral link](https://medium.com/@poulinakis.kon/membership) 💵
-- ## Share the articles you found most interesting 🗣️
-- ## Give me an extra 99999 claps 👏 on Medium 
+- ### Consider becoming a [Medium member](https://medium.com/@poulinakis.kon/membership) through my [referral link](https://medium.com/@poulinakis.kon/membership) 💵
+- ### Share the articles you found most interesting 🗣️
+- ### Give me an extra 99999 claps 👏 on Medium 
 
-
-
-</br>
-</br>
-</br>
 </br>
 
 # ✍️ :heart:
