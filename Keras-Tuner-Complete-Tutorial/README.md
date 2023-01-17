@@ -11,7 +11,12 @@ You will learn some tricks not included in other tutorials, such as:
 - Tuning the learning rate in conjunction with the optimizer 
 - Detailed explanation of the tools capabilities
 
-The tutorial works with a 37 classes Sign Language computer vision [dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset). The code can be found in the keras_tuner.ipynb file and is thoroughly explained in the [medium blog post](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887). 
+The tutorial works with a 37 classes Sign Language computer vision [dataset](https://www.kaggle.com/datasets/ayuraj/asl-dataset).
+</br>
+<img src='Images/data_sample.png' height=100 width=100>.
+</br>
+
+The code can be found in the keras_tuner.ipynb file and is thoroughly explained in the [medium blog post](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
 
 [![cover](Images/cover.png)](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
 
