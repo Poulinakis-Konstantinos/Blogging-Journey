@@ -5,7 +5,7 @@
 
 </br>
 
-<img src='Images/clusters.png' alt="Clusters Plotted">
+<img src='Images/clusters.png' alt="Clusters Plotted" height=600 width=850>
 
 ## Read about 
 * Unspuervised Clustering Evaluation Metrics
@@ -19,4 +19,4 @@
 
 </br>
 
-<img src='Images/data_projection.png' text='dad' alt="Dataset Projection to 2D, 3D" height=350 width=420> <img src='Images/db_index.png' alt="Evaluation Plot" height=350 width=320>
+<img src='Images/data_projection.png' text='dad' alt="Dataset Projection to 2D, 3D" height=420 width=450> &ensp; &ensp; <img src='Images/db_index.png' alt="Evaluation Plot" height=420 width=450>
