@@ -18,7 +18,7 @@ The tutorial works with a 37 classes Sign Language computer vision [dataset](htt
 </div>
 </br>
 
-The code can be found in the keras_tuner.ipynb file and is thoroughly explained in the [medium blog post](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
+The full code can be found in the [keras_tuner.ipynb](keras-tuner.ipynb) file and is thoroughly explained in the [medium blog post](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
 
 [![cover](Images/cover.png)](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
 
