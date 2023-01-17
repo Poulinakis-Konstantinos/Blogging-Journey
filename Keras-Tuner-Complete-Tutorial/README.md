@@ -1,4 +1,4 @@
-# Stop Using Grid Search! The Complete Practical Tutorial on Keras Tuner
+# [Stop Using Grid Search! The Complete Practical Tutorial on Keras Tuner](https://pub.towardsai.net/keras-tuner-tutorial-hyperparameter-optimization-tensorflow-keras-computer-vision-example-c9abbdad9887)
 
 ### Even experts are often trapped in rabbit holes of trial and error procedures until they find a good hyperparameter combination for their Neural Networks. [**Keras-Tuner**](https://keras.io/api/keras_tuner/) is a tool that will help you **optimize your neural network** and find a close to optimal hyperparameter set.
 
