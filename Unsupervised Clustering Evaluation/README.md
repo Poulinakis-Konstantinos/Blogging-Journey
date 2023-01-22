@@ -1,11 +1,11 @@
-# Are my clusters correct? Methods for Unsupervised Evaluation of Clustering
+# [Are my clusters correct? Methods for Unsupervised Evaluation of Clustering](https://pub.towardsai.net/unsupervised-evaluation-clustering-metrics-are-my-clusters-correct-evaluation-methods-7dccb955c490)
 
-### How can I know if my clustering is descriptive of a dataset? 
+### How can I know if my clustering describes the data well? 
 ### How Do I Measure Performance When Supervised Labels are Not Available? 
 
 </br>
 
-<img src='Images/clusters.png' alt="Clusters Plotted" height=600 width=850>
+[<img src='Images/clusters.png' alt="Clusters Plotted" height=600 width=850>](https://pub.towardsai.net/unsupervised-evaluation-clustering-metrics-are-my-clusters-correct-evaluation-methods-7dccb955c490)
 
 ## Read about 
 * Unspuervised Clustering Evaluation Metrics
