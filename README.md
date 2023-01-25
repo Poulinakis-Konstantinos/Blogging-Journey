@@ -17,27 +17,27 @@
 
 ## - Coding tutorials 🖥️
 * ### NLP
-  -  Stock News Sentiment Analysis with Fin-BERT Transformer.
+  -  [Stock News Sentiment Analysis with Fin-BERT Transformer](https://medium.com/codex/stocks-news-sentiment-analysis-with-deep-learning-transformers-and-machine-learning-cdcdb827fc06)
   
-  -  English to German Translator with Docker and Transformers
+  -  [English to German Translator with Docker and Transformers](https://medium.com/codex/build-an-english-to-german-translator-with-docker-and-huggingface-transformers-in-15-minutes-with-ml-8386135a3fa9)
 
 * ### Computer Vision
-  -  Object Detection at the Edge With TF Lite Model-maker
+  -  [Object Detection at the Edge With TF Lite Model-maker (end-to-end project)](https://pub.towardsai.net/object-detection-at-the-edge-with-tf-lite-model-maker-e635a17b0854)
   
 
 * ### Other
   - [Keras-Tuner for Neural Network Hyperparameter Optimization](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/tree/main/Keras-Tuner-Complete-Tutorial)
-  -  How I tried to Predict the S&P500 Stock Price with Python and Machine Learning
+  - [How I tried to Predict the S&P500 Stock Price with Python and Machine Learning](https://medium.com/mlearning-ai/predict-sp500-stock-price-with-python-machine-learning-sentiment-analysis-a296dc276353)
 
 </br>
 
 ## - Hybrid  📜↔️🖥️
-- [Unspuervised Clustering Evaluation](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/tree/main/Unsupervised%20Clustering%20Evaluation)
-- GELU: Gaussian Error Linear Unit Code (Python, TF, Torch)
+- [Unsupervised Clustering Evaluation](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/tree/main/Unsupervised%20Clustering%20Evaluation)
+- [GELU: Gaussian Error Linear Unit Code (Python, TF, Torch)](https://pub.towardsai.net/gelu-gaussian-error-linear-unit-code-python-tf-torch-neural-network-bert-de539517edef)
 
 </br>
 
-## - Informative 📰
+## - Informational / Opinion 📰
 - [Three reasons Self-Supervised Learning will dominate AI](https://medium.com/geekculture/three-reasons-self-supervised-learning-will-dominate-artificial-intelligence-ai-69904684c935)
 
 </br>
