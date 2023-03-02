@@ -2,7 +2,7 @@
 
 **(Repository with Frequent Updates)**
 
-### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) as well as for [company clients](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/edit/main/README.md#professional-content-creation-for-clients).  Most of the code and notebooks used in my coding tutorials are also hosted here.
+### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) as well as for [company clients](https://github.com/Poulinakis-Konstantinos/Blogging-Journey#professional-content-creation-for-clients).  Most of the code and notebooks used in my coding tutorials are also hosted here.
 
 # Subjects I cover 📜
 
@@ -41,7 +41,7 @@
 - [Three reasons Self-Supervised Learning will dominate AI](https://medium.com/geekculture/three-reasons-self-supervised-learning-will-dominate-artificial-intelligence-ai-69904684c935)
 
 
-# Professional content creation for clients
+# Client Projects Portfolio
 ## [Picsellia](https://www.picsellia.com/)
 
 - [Best-Practices for Fine-Tuning Computer Vision Models](https://www.picsellia.com/post/best-practices-for-fine-tuning-computer-vision-models)
