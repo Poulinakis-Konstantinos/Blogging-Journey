@@ -1,8 +1,8 @@
 # My Blogging-Journey  ✒️✍️
 
-**(Repo Under Construction - Frequent Updates)**
+**(Repository with Frequent Updates)**
 
-### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) along with code and notebooks used in my coding tutorials.
+### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) as well as for [company clients](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/edit/main/README.md#professional-content-creation-for-clients).  Most of the code and notebooks used in my coding tutorials are also hosted here.
 
 # Subjects I cover 📜
 
@@ -39,6 +39,29 @@
 
 ## - Informational / Opinion 📰
 - [Three reasons Self-Supervised Learning will dominate AI](https://medium.com/geekculture/three-reasons-self-supervised-learning-will-dominate-artificial-intelligence-ai-69904684c935)
+
+
+# Professional content creation for clients
+## [Picsellia](https://www.picsellia.com/)
+
+- [Best-Practices for Fine-Tuning Computer Vision Models](https://www.picsellia.com/post/best-practices-for-fine-tuning-computer-vision-models)
+- [Is AutoML replacing Data Scientists?](https://www.picsellia.com/post/is-automl-replacing-data-scientists)
+- [A dive into YOLO object detection](https://www.picsellia.com/post/a-dive-into-yolo-object-detection)
+- [6 Computer Vision Trends in 2022](https://www.picsellia.com/post/6-computer-vision-trends-in-2022)
+- [Are Transformers replacing CNNs in Object Detection?](https://www.picsellia.com/post/are-transformers-replacing-cnns-in-object-detection)
+- [How to Reduce Training Data with Self-Supervised Learning](https://www.picsellia.com/post/reduce-training-data-with-self-supervised-learning)
+- [How To Optimize Computer Vision Models For Edge Devices](https://www.picsellia.com/post/optimize-computer-vision-models-on-the-edge)
+- [Data Versioning & Feedback Loop Best Practices](https://www.picsellia.com/post/feedback-loops-and-versioning-in-computer-vision)
+
+## [V7](https://www.v7labs.com/) 
+- [Intro to MLOps: What Is Machine Learning Operations and How to Implement It](https://www.v7labs.com/blog/mlops-machine-learning-ops-guide)
+- [Multimodal Deep Learning: Definition, Examples, Applications](https://www.v7labs.com/blog/multimodal-deep-learning-guide)
+
+My V7 [author profile](https://www.v7labs.com/authors/konstantinos-poulinakis#).
+
+</br>
+
+### If you intrested in a collaboration contact me through [LinkedIn](https://www.linkedin.com/in/konstantinos-poulinakis-4554821a3/)!
 
 </br>
 
