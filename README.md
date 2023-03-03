@@ -61,7 +61,7 @@ My V7 [author profile](https://www.v7labs.com/authors/konstantinos-poulinakis#).
 
 </br>
 
-### If you intrested in a collaboration contact me through [LinkedIn](https://www.linkedin.com/in/konstantinos-poulinakis-4554821a3/)!
+### If you are intrested in a collaboration contact me through [LinkedIn](https://www.linkedin.com/in/konstantinos-poulinakis-4554821a3/)!
 
 </br>
 
