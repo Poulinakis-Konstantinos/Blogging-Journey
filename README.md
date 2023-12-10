@@ -1,4 +1,4 @@
-# My Blogging-Journey  ✒️✍️
+# My AI Blogging-Journey  ✒️✍️
 
 ### A collection of articles published on my [Medium profile](https://medium.com/@poulinakis.kon) as well as for [company clients](https://github.com/Poulinakis-Konstantinos/Blogging-Journey/blob/main/README.md#client-projects-portfolio).  Most of the code and notebooks used in my coding tutorials are also hosted here.
 
